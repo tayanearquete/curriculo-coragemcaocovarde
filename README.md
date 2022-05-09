@@ -1,2 +1,2 @@
 # curriculo-coragemcaocovarde
-file:///C:/Users/Tayane/Desktop/curriculo.html
+https://github.com/tayanearquete/curriculo-coragemcaocovarde.git
